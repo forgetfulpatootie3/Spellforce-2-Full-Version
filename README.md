@@ -243,4 +243,4 @@ This repository serves as the official landing page for SpellForce 2. The softwa
 **Get the most recent version of SpellForce 2 today!**
 
 ---
-**Last updated:** 2026-09-23 14:40:36 UTC
+**Last updated:** 2026-09-23 18:50:06 UTC
